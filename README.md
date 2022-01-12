@@ -1,4 +1,4 @@
-### Hi! My name's nate, and I'm an inspiring Computer Science Major at the University of Vermont.
+### Hi! My name's nate, and I'm a Computer Science Major at the University of Vermont.
 
 ### I am currently working on different projects during my own time to further expand my horizons and work towards my CS goals.
 
