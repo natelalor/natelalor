@@ -1,8 +1,7 @@
-### Hi! My name's nate, and I'm a Computer Science Major at the University of Vermont.
+### Hi! 
+My name's nate (he/him), and I'm a Computer Science Major at the University of Vermont.
+Most of my github includes a few different small projects I'm doing during my own time to further expand my horizons and have fun working towards my CS goals.
 
-### I am currently working on different projects during my own time to further expand my horizons and work towards my CS goals.
-
-### Enjoy your stay!
 
 <!--
 **natelalor/natelalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
