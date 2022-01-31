@@ -1,5 +1,5 @@
 ### Hi! 
-My name's nate (he/him), and I'm a Computer Science Major at the University of Vermont.
+My name's Nate (he/him), and I'm a Computer Science Major at the University of Vermont.
 Most of my github includes a few different small projects I'm doing during my own time to further expand my horizons and have fun working towards my CS goals.
 
 
